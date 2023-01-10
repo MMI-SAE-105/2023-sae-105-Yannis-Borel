@@ -41,6 +41,7 @@
   img {
     display: flex;
     width: 60%;
+    margin: auto;
   }
 
   .more {

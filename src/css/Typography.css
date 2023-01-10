@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Viga&display=swap');
+
+
+html {
+    font-size: 62,5%;
+}
+
+body {
+    font-family: 'Viga', sans-serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    margin: 0 0px;
+}
+
+.Lartiste {
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+    font-family: 'Viga', sans-serif;
+    display: flex;
+    justify-content: center;
+        
+}
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+    position: relative;
+    bottom: 20px;
+}
+
+legend {
+    text-align: center;
+    font-size: 18px;
+    color:  #DE1111;
+    ;
+}

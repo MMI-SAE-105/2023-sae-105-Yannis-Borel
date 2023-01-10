@@ -25,14 +25,18 @@ figcaption {
 
 .modif {
     background-color: #DE1111;
-    
-    
 }
 
 figcaption {
     text-decoration: none;
     color: white;
 }
+
+.fleche {
+    margin-right: 35px;
+    margin-top: 10px;
+    width: 45px;
+  }
  
 
  

@@ -8,3 +8,11 @@
     text-align: center;
     font-size: 21px;   
 }
+
+.hracc {
+    height: 2px;
+    background-color: black;
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom:68px;
+  }

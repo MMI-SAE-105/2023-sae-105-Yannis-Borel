@@ -5,23 +5,53 @@ footer {
 }
 
 .legale {
-    font-size: 17px; 
-    font-weight: 600;
+    font-size: 15px; 
+    font-weight: 200;
     position: relative;
     bottom: 40px;
 }
 
 .mail {
-    font-size: 17px; 
-    font-weight: 700;
+    font-size: 15px; 
+    font-weight: 200;
     position: relative;
     bottom: 40px;
 }
 
 .Formulaire_footer {
-    font-size: 17px; 
-    font-weight: 600;
+    font-size: 15px; 
+    font-weight: 200;
     text-decoration: underline;
     position: relative;
     bottom: 40px;
 }
+
+.instagram {
+    width: 10%;
+      display: inline-block;
+      position: relative;
+      right: 15%;
+      margin-top: 0px;
+      position: relative;
+      bottom: 40px;
+  }
+  
+  .twitter {
+    width: 10%;
+    display: inline-block;
+      position: relative;
+      right: 0%;
+      margin: auto;
+      position: relative;
+      bottom: 40px;
+  }
+  
+  .youtube {
+    width: 10%;
+    display: inline-block;
+      position: relative;
+      left: 15%;
+      margin: auto;
+      position: relative;
+      bottom: 40px;
+  }

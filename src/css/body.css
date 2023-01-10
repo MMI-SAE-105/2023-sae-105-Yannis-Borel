@@ -49,3 +49,7 @@
     display: block;
     margin: 0 auto;
   }
+  
+  .white {
+    background-color: white;
+  }

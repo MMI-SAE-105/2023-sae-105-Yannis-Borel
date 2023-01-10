@@ -1,3 +1,6 @@
 @import "./vendors/normalize.css";
 @import "./style.css";
 @import "./header.css";
+@import "./Typography.css";
+@import "./footer.css";
+@import "./caroussel.css"

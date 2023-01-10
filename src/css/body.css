@@ -21,6 +21,7 @@
     padding: 10px;
     margin: 20px;
     color: white;
+    border-radius: 0.625rem
   }
 
   .hracc_2 {
@@ -30,6 +31,20 @@
     margin: 0 auto;
   }
 
+  .hracc_4 {
+    height: 0px;
+    background-color: white;
+    width: 0px;
+    margin-bottom: 50px;
+  }
+
   img {
-    text-align: center;
+    display: flex;
+    width: 60%;
+  }
+
+  .more {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
   }

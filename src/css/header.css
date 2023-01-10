@@ -10,3 +10,14 @@ header {
     margin-top: 10px;
     width: 35px;
   }
+
+  .hamburger {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    right: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }

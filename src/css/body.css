@@ -53,3 +53,13 @@
   .white {
     background-color: white;
   }
+
+  .boutton-Billeterie {
+    display: inline-block;
+    background-color: #DE1111;
+    border-radius: 0.625rem;
+    color: white;
+    text-align: center;
+    padding: 1.25rem;
+    margin-left: 57%;
+  }

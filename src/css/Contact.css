@@ -5,9 +5,9 @@
   
   button {
     display: inline-block;
-    background-color: orange;
+    background-color: #DE1111;
     border-radius: 0.625rem;
-    color: wh;
+    color: white;
     text-align: center;
   }
 
@@ -20,5 +20,5 @@
   }
 
   .contact {
-    padding: 20px;
+   margin: 20px;
   }

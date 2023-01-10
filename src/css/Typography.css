@@ -38,3 +38,13 @@ legend {
     color:  #DE1111;
     ;
 }
+
+.article {
+    padding-top: 20px;
+    margin-left: 9px;
+    font-size: 17px;
+}
+
+h3 {
+    text-align: center;
+}

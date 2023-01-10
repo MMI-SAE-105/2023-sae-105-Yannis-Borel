@@ -14,5 +14,18 @@
     background-color: black;
     width: 250px;
     margin: 0 auto;
-    margin-bottom:68px;
+  }
+
+  .rectangle {
+    background: #DE1111;
+    padding: 10px;
+    margin: 20px;
+    color: white;
+  }
+
+  .hracc_2 {
+    height: 2px;
+    background-color: white;
+    width: 250px;
+    margin: 0 auto;
   }

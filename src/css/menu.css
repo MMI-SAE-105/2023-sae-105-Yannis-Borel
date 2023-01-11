@@ -9,3 +9,46 @@
     justify-content: center;
     z-index: 2;
 }
+
+.menu {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 30px;
+    right: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2;
+}
+
+
+.header__menuBtn {
+    position: relative; 
+    z-index: 20; 
+    margin-top: 0;
+    background-color: #DE1111;
+    scale: 70%;
+    border: none;
+}
+.menu_titles {
+    list-style: none;
+    font-family: Voltaire;
+    font-size: 26px;
+    line-height: 300%;
+    text-align: center;
+}
+
+.menu_link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding-right: 28px;
+}
+
+.logo_menu {
+    transform: scale(70%);
+}
+.noscroll,
+.noscroll body {
+    overflow: hidden;
+}

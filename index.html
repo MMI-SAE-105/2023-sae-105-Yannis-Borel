@@ -15,11 +15,29 @@
              <img class="logo_planete"
              src="../public/img/La_planete_dans_laquelle_on_vit.svg" 
              alt="Langue"
-           /></a>
-           <img src=".//public/img/menu.svg" alt="menu" class="hamburger">
+           /></a> 
            <a class="Lartiste" href="../index.html">
             LARTISTE</a>
             </a> 
+            <button aria-controls="mainNav" 
+        @click="menuIsOpen = ! menuIsOpen"
+        class="header__menuBtn"
+        >
+        <img src="./public/img/menu.svg" alt="menu" class="hamburger">
+        </button>
+        <nav id="mainNav" 
+        x-show="menuIsOpen"
+        x-transition.duration.800ms
+        class="menu">
+            <ul class="menu_titles">
+                <li><a class="menu_link" href="">Home</a></li>
+                <li><a class="menu_link" href="">Régionalisme</a></li>
+                <li><a class="menu_link" href="">Contact</a></li>
+                <li><a class="menu_link" href="">Auteurs</a></li>
+                <li><a class="menu_link" href="">EXPOSITION 2023</a></li>
+                <br>
+            </ul>
+        </nav>
     </header>
 <p class="Accueil">Bienvenue sur cette exposition des artistes du réalisme social </p>
 <hr class="hracc">

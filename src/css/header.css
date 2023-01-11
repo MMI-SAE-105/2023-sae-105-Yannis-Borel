@@ -6,9 +6,10 @@ header {
 }
 
 .logo_planete {
-    margin-left: 35px;
+    margin-left: 307px;
     margin-top: 10px;
     width: 35px;
+    padding: auto;
   }
 
   .hamburger {

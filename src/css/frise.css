@@ -1,7 +1,7 @@
 .frise {
     width: 200px;
     justify-content: center;
-    border-left: 7px solid #ce7373;
+    border-left: 7px solid #DE1111;
     position: relative;
     margin-left: 5%;
   }
@@ -19,7 +19,7 @@
     display: block;
     height: 5px;
     width: 70px;
-    background-color: black;
+    background-color: #DE1111;
     position: absolute;
     left: 0;
     top: 50%;
